@@ -6,3 +6,4 @@
     ex) git commit - ("이름")
 4. git push origin main :원본 레파지토리의 메인 브랜치에 현재 저장된 내용을 업로드한다.
 5. 으아아 
+6. 우엑
