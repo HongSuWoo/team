@@ -25,5 +25,7 @@ git config --global user.email [pim.zmfhdn2@naver.com](mailto:pim.zmfhdn2@naver.
 사용의 경우 git add “파일명” 또는 git add .        
 을 사용후 git push 로 업데이트를 해야한다.        
 자매품으로  pull 이 있다.
-안녕하세요 ㅎㅎㅎ
+#안녕하세요 ㅎㅎㅎ
+#네 안녕하세요.
+
 
